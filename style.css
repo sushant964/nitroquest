@@ -1,1 +1,9 @@
+// Simple interaction
 
+document.querySelector(".start-btn").addEventListener("click", () => {
+  alert("Start completing tasks to earn coins!");
+});
+
+document.querySelector(".login-btn").addEventListener("click", () => {
+  alert("Login system coming soon!");
+});
